@@ -1,0 +1,200 @@
+The pair density distribution of deformed nuclei was investigated using the Hartree-Fock Bogoliubov method.
+The axisymmetric quadrupole deformed nuclei were made to be an object.
+Angle dependence of the density distribution and the pair density distribution was obtained using the superficial type pairing correlation.
+From the radial axis, 102Zr was analyzed on the angle of 0, π 4, π/2.
+It is found that the deformation is affected by the pair density distribution.
+From liquid crystal display, the polarization plays an important role in industrial fields ranging from biological engineering, to optical recording and remote sensing.
+In addition, the product and polarization devices using polarization element itself are used more complicated.
+Since the system to measure the complete Mueller matrix of the sample has the advantage of measuring all of the polarization characteristics of the samples, it will be useful for the utilization of polarization samples of most of the present or future types.
+Here, Mueller matrices for the basis of polarization measurements are briefly described, describing the polarization characteristics of the samples are explained.
+A AxoScan system for measuring the complete Mueller matrix of the sample were also described, and shows measurement examples carried out by this method.
+The establishment of the titled attenuation standard was tried.
+The light source, a light emitting diode and an optical fiber of 850 nm central wavelength, Gaussian Matsushita-designed 50 nm, was made to be a multimode GI type of the effective aperture number of 0.11 effective core diameter 26μm.
+As the measured temperature 22℃, the measurement range of the damping quantity 10 to 50 dB.
+The international comparison results by Japan (ETL), Italy (CSELT), Netherlands (VSL), Germany (PTB), and France (LCIE) are discussed.
+The geometrical optics theory of the stationary wave based on the ray coincidence is developed.
+This kind of ray can be called wave-normal rays.
+To explain the basic concept, the problem of the reflection and refraction of the cylindrical wave in the plane boundary is taken up.
+The incident angle of the wave inequality satisfied of the reflection angle is derived by the principle of wave-normal rays.
+In addition, a new representation of the law of Snell on refraction is described
+The development of the title for the coating of particles by plasma CVD is described.
+Conversion of methane was used to study the characteristics of the reactor of this type.
+The introduction of reactive gas from the side of the DC plasma jet does not change the plasma stability, even if there is the particle was activated efficiently in gas.
+[1994.3] in the presence of excess hydrogen promoted the formation of carbon particles, showed the possibility of plasma CVD on the fluidized particles.
+Titled optical switching and optical recording image were formed, and its stability was examined.
+The titled liquid crystal thin film is formed by uniaxial orientation on glass substrates, and measured transmission light via polarizing plate.
+The nematic phase disappeared by the line irradiation of 366nm and the light transmittance became 0.
+Image (I) was formed by laser pulse irradiation, and showed the stability of more than 1 year at room temperature.
+At temperatures above Tg I can be eliminated.
+The mechanism of the thermal return reaction is discussed.
+We examined the polymer dispersed liquid crystal layer including a single size liquid crystal domain true, and obtained monodispersed polymer spheres including the liquid crystal nucleus of individual.
+The liquid crystal particles covered with such polymer can easily produce that between 10分の数 μm to 5 μm.
+The layer of liquid crystal particles covered with various composition of polymer, was made by considering other electro-optical characteristics.
+Finally, the diameter of the particles as 1.25 μm, and dispersed in polymer 75 wt %, and the layer thickness of 29μm was fabricated.
+As the result, as electrooptic characteristics, V10 = 11.8 V, and V90 = 18 V were obtained.
+Thermal flow sensor with a wide flow rate measurement range of 0.005 to 90 m/s and high durability was developed.
+Using this sensor, a multipoint measuring type flowmeter for the turbulent flow was developed.
+This flowmeter can detect the flow over 20 to 3200 m3 per hour in a 0.2m i.d. tube under the developing turbulent state.
+Using this flowmeter piping long straight section becomes unnecessary and the downsizing of the instrumentation system mounting becomes possible.
+A new in-line flowmeter in the title was developed.
+The principle is measured by an ultrasonic oscillator and a receiver tube outside the Karman vortex street generated in the liquid in a tube and the volume flow is obtained.
+The safety advantages, without the seal is high, because the tube outside maintenance free, the sensor is simple without a moving part in a tube can be exchanged without stopping the flow of the process even when of 1 failure, etc.
+The measurable velocity range 0.2 to 6.0 m per second, Reynolds number range more than 5000, accuracy and 1 % (pair indicator value).
+At the end of 2006, by suspicious death matter of the ternary Russian Federation Safety Agency information team, polonium attracted the attention of the world.
+Polonium is the elements discovered by Curie in 1898, polonium in most exists in natural 210.
+The features of polonium as a poison, (1) the radioactivity is 10000000000 times of uranium 238, and α- line is that the permeability is extremely low when (2) mainly α- collapsed, incorporated in the body (3).
+Though polonium 210 is very small and also in tobacco smoke is included.
+The second harmonic generation (SHG) of low-molecular organic compounds is described, and an example of SHG active molecules and the present state of molecular design was described.
+Next, as a method of realization of SHG activity in the polymer system, large in the matrix of hyperpolarizability coefficient (β) molecules are dispersed and poling is carried out.
+Taking introducing the β value of large molecules, and the method using ferroelectric polymer in the side chain was described present state of the research, and the problems are described.
+Langmuir-Blodgett method and inclusion is also described.
+By the continuous addition of water in the homogeneous solution of water and ethanol and monomers lowered the solubility of monomers, continuously separated the dose of monomer into the whole system by.
+Much monomers was finally absorbed equally monodispersed seed particles.
+Monodispersed styrene swelled particles were obtained, and the titled fine particle was synthesized by this method.
+The generation prevention of by-product fine particles in the polymerization was also examined.
+We have developed an active electrode with transmitting function to derive surface EMG without using pretreatment and conductive paste of the skin.
+Since the cordless electrode, without electrode such as conventional telemetry system and the lead wire connecting between the transmitter can reduce the burden of the experimental person.
+And, the effect of noise by the fluctuation of the lead wire does not affect.
+It can also be applied for electrocardiogram and EEG measurement, and the simplification of the measurement can be expected
+The case of the title drug (L) administration for a 41-year-old woman suffered from systemic lupus erythematosus, receiving steroid therapy was reported.
+Cold sensation and pain of the right lower leg was realized, and afterwards the ulcer with necrotic tissue in the right tibialis anterior part appeared, was gradually exacerbated.
+When together with wound treatment such as cleaning of the ulcer division, infusion of 10μg per day for 4 weeks L, the pain was relieved, and the ulcer of the lower leg was reduced.
+During the treatment, the side effect was not recognized.
+We aimed at the development of a riding type transplanting machine to realize the lightweight paper mulch rice paddy field laying and work in the work efficiency of 14 a/h degree.
+System were examined for the squeezing of the development specification setting and implementation (riding type 1 possible work, prevention of damage of seedlings, paddy field laying of mulch, self decay time of mulch etc.).
+The squeezing of the paper specification was made by using commercial mulch rice transplanter multi- paper of different strength (3 species) was produced experimentally, remodeled the preliminary survey and examination on planting, workability, and planting accuracy.
+They contain the outline of development and trial manufacture of and mulch paper and rice machines based on these.
+The titled case of 54-year-old and 84-year-old woman is reported.
+In case 1, after the operation of ovarian cancer, anticancer drugs leaked out extravascular during chemotherapy, produced, flare, induration and skin ulcer.
+In case 2, flare, induration and skin ulcer occurred during chemotherapy for hepatic metastasis of rectal cancer.
+The conservative treatment was performed in both cases.
+At the boundary of the lesion clear, the surgical treatment was carried out.
+In both cases, the postoperative course was uneventful.
+A case of passivata disease in a 45-year-old woman was reported.
+After using new cosmetics, the efflorescence has been recognized in the face.
+The external use of steroid internal use, steroid salve and zinc ointment was performed.
+Improved symptom 2 months after the administration.
+The patch test of cosmetics was positive.
+Contact dermatitis, and passivata disease by cosmetics was suspected.
+Lysine, botulinum toxin, or Vero toxin, is a protein toxin of deadly poison have fear use to the chemical and biological weapon or bioterrorism.
+The accurate and rapid detection method of these toxin was developed in the cooperation of science and police laboratory, Nagoya University Engineering Department and Gifu and Pharmaceutical University.
+It is characteristic of the detection principle using the sugar chain, it was combined with the surface plasmon resonance (SPR) method method.
+Is compared with the conventional method was shortened time drastically high reliability and operability is good method.
+The nursing of the patient of the woman experienced 49-year-old postoperative arachnoid melena, as cerebellar infarction, and bilateral paralysis.
+Prevention of danger and early detection of abnormality, the expansion and independence of ADL (activity of daily living) as a nursing goal, also such as self help aid is devised.
+As the result, it became complete self-support without ADL compared with admission, the progress was observed considerably.
+On the meal, it became the half assistance from all assistance.
+Time is needed yet, excretion, urination
+Most of spondylolysis, it became clear that the cause excessive sports activity of developmental stages, etc.
+In the diagnosis of spondylolysis from roentgen diagnosis, early diagnosis became possible by the MRI, and the treatment outcome by the conservative treatment is remarkably raised.
+When MRI was carried out in junior high school detection survey persons complained of lumbago, and the low brightness change was recognized in 51 %.
+These were improved in all cases by wearing the lumbar apparatus or limitation movement.
+MRI diagnosis is recommended when there was no clear cause in junior high school students more than 1 months backache continued.
+The physiological salt solution method in order to detect the complete antibody, enzymatic method, albumin method and in order to detect incomplete antibody, indirect antiglobulin test are carried out.
+The attentions unusual reaction on the operation in each test method and the correspondence are outlined.
+It is indispensable that the irregularity antibody screening is carried out before the titled test.
+It is necessary to clarify the manual of the titled test corresponding to the emergency blood transfusion.
+Respiratory infection defense mechanism and treatment of chronic respiratory tract infection are shown in figures and tables, the disease state of chronic airway infection and principle of the treatment is simply explained.
+Next, typical pathogenic bacteria are summarized in a table, and the features are described, and antimicrobial agent therapy is described according to the pathogen.
+In addition, the cautionary notes in ambulatory or home treatment are shown.
+Finally, the significance of macrolide little long-term therapy for chronic respiratory tract infection is introduced
+The relationship between the central convulsion and the brain histamine level dismantled and the research was explained.
+There was an inverse correlation between the brain histamine level and clonic convulsion and duration, no correlation between the duration of the tonic convulsion
+The histamine neuron mechanism showed an important role in the inhibition of the clonic convulsion induction duration.
+Action central H1 receptor antagonist should not be administered in children
+We investigated the history of the Department of Education, Kansas University music education music therapy.
+They examined the transition of 5 years from the next year of death of the establishment of this university staff Gaston.
+Achievement, the number of students and students of music therapy program, guidance teachers, guidance teachers, etc. are summarized.
+The music therapy of this university program may very well and over, it has attracted the interest of many students.
+By this research, list of students all including the graduates of bachelor and Dr. process can be made
+During gestation, the liver and intestine through the central abdominal wall were observed outside the body.
+In the neonatal period hernia repair, cardiac catheterization was performed for cardiac murmur at the age of 3.
+Substituting return from the lower body of the bilateral paravertebral vein of 2 sets, these is smaller than that of the original both azygos vein.
+In addition, the diverticulum formation, and the aorta under innominate vein between the right vein and the right atrium could be confirmed by the above 2 method.
+It was considered that the complication in the extracorporeal circulation method of the umbilical hernia repair, should be minded.
+Falling injured in ski was admitted because of right knee deformation and pain.
+Lateral dislocation and valgus type were recognized in the inspection, and patellar dislocation and the distal femoral epiphyseal separation was observed in X-P.
+The osteosynthesis was performed, and the lateral retinaculum isolation and medial joint plication was performed in the dislocation.
+The excursion became normal by excursion training and muscle strengthening training in walking, and left hospital, long-term follow-up is necessary.
+The adaptability of the edge-based finite element method to ECT analysis is confirmed.
+By using the deformation potential, the partition of the exciting coil became unnecessary, the impedance change caused by the reaction field due to the eddy current can be analyzed.
+The analytical results of the benchmark calculation agreed well with the calculated values.
+The calculated capacitance can be reduced by using the object and the opposite symmetric conditions and
+Groupware was introduced as the working environment to activate group activities.
+Therefore, between the office are connected by LAN-WAN - LAN, and services such as electronic mail, electronic bulletin board, Forum was carried out.
+The menu of the service is shown.
+The features of the system is the self introduction in the utilization department, business system and cooperation service from remote utilization, metropolitan area LAN/WAN development.
+INTEC INC., the sale of water purifier company, Japan Ltd. first computer in office computer, shifted to a personal computer after.
+In addition, the client server system by the business server "K series" was constructed.
+By this, effectively utilizing existing personal computer assets while, integrated system.
+This paper shows the utilization of the personal computer as a client
+The preparation of the two-dimensional sequence of fine particles is explained.
+Sequence preparation method using the advection phenomenon of colloidal particles and preparation method using electrophoresis phenomena are introduced.
+The observation method of the filling state of fine particles by the optical method is also introduced.
+In addition, the applied research to the antireflection film and microlens array, a template agent for fine processing mask, etc. is also introduced.
+The demand for the network management system under the next generation network is discussed, and some solution provided by NEC are introduced.
+In the future of IP and IMS (IP multimedia subsystems), communication business network are remarkably converted.
+The tip function for network management is directly connected to the determination of the communication enterprise business management is required in order to provide useful services on the open network.
+To maintain the conventional requirements for efficient operators management not only, business management support and customer care services are included in these.
+With the digitization of FPU system, remote control and monitoring of FPU unit and digital peripheral equipment very complicated compared with the conventional system.
+They introduced the outline of the FPU remote control equipment for NHK to correspond to the complex, the development and commercialization was carried out.
+The local FPU operation board of the base station side installation, has a function for control and monitoring to each equipment, and data transmission between the broadcasting hall side FPU remote operation plate.
+The base station side and broadcasting hall side mounted power supply control plate has a function for the power control of the maximum 4 lines transmitting machine in 1.
+The FPU remote operation board in the broadcasting hall side, has control and monitoring function to each equipment with a local mountain side FPU operation plate data communication, mountain side and broadcasting hall side.
+The floor clock using LED as a light source, displays the clock by the light aggregated is introduced.
+Composition of the floor clock, the supply of electricity, cautionary notes in construction, the life of materials and future problems are described.
+Those integrating LED and artificial marble were introduced as new products.
+Evacuation and induction display using the floor on disaster prevention as a problem on the application are mentioned.
+The trial manufacture of high resolution see-through color HMD was carried out, it is used for the research of artificial reality products was developed.
+It is not only used as a goggles function, and has a see-through function.
+The features such as the see-through function and display image, adjustment mechanism and consideration on the design were described.
+And, specifications and performance resolution, etc. are also introduced.
+The characteristics and application as heat sink of diamond are described.
+The thermal conductivity, thermal expansion rate and electrical properties of diamond are shown in comparison with the other materials.
+As for the heat sink, the high purity diamond synthesis is necessary, considering the low cost gas phase method and diamond is suitable for large area.
+As for optical communication and sink for device diamond, the present state and the future are outlined
+In the fine data, the path to utilize the merit of high speed rotation and the swing accuracy of aerostatic spindle have been prepared.
+Here, the high-speed milling and CAM system, and the experience of this company are described on the results.
+The workpiece is mainly on steel materials, diverse such as aluminum, copper alloy, wood, resin of nonferrous metals.
+Then, it is explained that using the tool of 0.1 to 6 mm diameter in these materials, they carried out the research of the proper cutting condition and tool path.
+We have studied the response of the case in which the unbound granular material pavement with thin seal coat surface receives the volume change of subgrade.
+The swelling and contraction of subgrade by the monotonous dry-wet repetition are considered.
+In numerical analysis, the thermal similarity law handled as similarity is adopted in isotropic thermal expansion and contraction in free swelling and contraction.
+As a result of the analysis, it was proven that can well explain the response of pavement subjected to the volume change of subgrade, this numerical analysis method [1995.2].
+In portable atmosphere monitoring system which combined 4 kinds of semiconductor gas sensor devices has been improved.
+A semiconductor gas sensor is a sensor with selectivity to hydrogen sulfide, sulfur compounds, ammonia and general combustible gas, respectively.
+Each sensor was confirmed that almost linear response, in the range of RH, 20 to 90 %, and the correction for humidity was carried out.
+The calibration curve of this system for the dilution of the odor gas by the clean air was made.
+Odor measurement was carried out in the facilities to handle organic solvents, and verified the practicability of this system.
+Titled consciousness investigation result of over 14000 shops is explained.
+Features such as decrease in profit by competition, decrease of income by the participation of a large oil supply plant, expansion of profit other than oil, review of the sales price was observed.
+The questionnaire result of 16 items of the management of service stations remedy was shown by percent.
+And, the report column as free of "selection" and clarification of "trade conditions, between enterprises and Agency of Natural Resources and Energy, Ministry of International Trade and Industry and on petroleum products supply" are explained.
+Though the automation can be attempted on the business such as signal handling by PRC computer input of the timetable data is required.
+Then, in the PRC system construction in the future, the realization of the efficiency of the titled business function becomes a problem.
+Here, the pattern of the titled business realized in JR Tokai is reported.
+In the PRC system remote control signals, the timetable data input directly from the operation plan data system and efficiency improvement was attempted by substitution input data such as shunting, construction.
+In the Shizuoka district as scheduled to be carried out in 11, and the situation was described.
+The method of travel between thickness change in the hot strip finishing mill is carried out by changing the roll position and speed of each stand in order to not mass flow balance is disturbed.
+To verify the possibility of between travel plate thickness change, a technique to suppress the mass flow fluctuation was adopted, the verification by the simulator was carried out, and a test system was constructed, and a real machine test was carried out.
+As the result, the change of plate thickness of 400 μm could be carried out within 1s.
+Between travel plate thickness change system and real machine test results are described
+The formability of spline rolling of cup shape materials was analyzed using a general-purpose analysis software ABAQUS, the effect of external tool tooth profile on the deformation of the product was examined.
+In rolling analytical model, Coulomb friction acts between material and tool, and the direction of rotation of inside tool and outside tool was constant in the opposite direction.
+It was found that the experimental results, the rolling simulation model reproduces the deformation state.
+And, there was effective formability that tooth height is high by increasing the external tool diameter.
+The cause of generation of the combustion failure in the heavy oil combustion boiler is described.
+The toxic substance contained in the heavy oil becomes a cause of the disorder.
+Residual carbon content became hard precipitate of strainer plugging, and it becomes a cause of plugging of the burner chip heated.
+Sulfur causes sulfate corrosion in low temperature part such as node coal and air preheater.
+The ash softening is melted adhered in the high temperature region becomes a cause of corrosion.
+Especially vanadium in the presence of alkali metal and sulfur compounds with low melting point produce metal remarkably corrode
+The recovery and reuse of wastewater containing dimethyl sulfoxide system generated in the manufacturing process of liquid crystal display is introduced.
+The TOC concentration holding the titled drainage of several hundred mg liters odor can be processed below the analysis limit biofilm treatment method was developed.
+The results by the pilot plant can be treated as the raw water of the pure water equipment to the reusable level.
+Recovery water can be used as raw water, the installation of deodorization equipment without operation was possible at odor intensity below 2.5.
+Causes of the full color electrophotographic image inferiority in terms of image quality compared with the printing image was examined.
+It is considered that the difference of both are caused by the microviscosity in the thickness direction of the image structure was analyzed.
+A cross-sectional structure was observed by optical microscopy and transmission electron microscopy on sliced images in microsomes.
+As a result, the printing image showed that the thickness of the image is small, and the uniformity is high.
+It is considered that the control of the thickness direction is effective in order to for high quality of electrophotographic image.
